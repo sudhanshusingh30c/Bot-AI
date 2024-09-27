@@ -1,0 +1,13 @@
+.userinput{
+    height: 10%;
+    display: flex;
+    padding: 5px;
+}
+.userinput input{
+   width: 80%;
+   padding-left: 5px;
+}
+.btnbox{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,13 @@
+.heading{
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.chatssession{
+    width: 80%;
+}
+
